@@ -1,0 +1,15 @@
+[0m[[0minfo[0m] [0m[32mJourneyPlannerSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mstations[0m[0m
+[0m[[0minfo[0m] [0m[31mException encountered when attempting to run a suite with class name: com.typesafe.training.scalatrain.JourneyPlannerSpec *** ABORTED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  java.lang.NoClassDefFoundError: Could not initialize class com.typesafe.training.scalatrain.TestData$[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.typesafe.training.scalatrain.JourneyPlannerSpec$$anonfun$1$$anonfun$apply$mcV$sp$1.apply$mcV$sp(JourneyPlannerSpec.scala:15)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.typesafe.training.scalatrain.JourneyPlannerSpec$$anonfun$1$$anonfun$apply$mcV$sp$1.apply(JourneyPlannerSpec.scala:15)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.typesafe.training.scalatrain.JourneyPlannerSpec$$anonfun$1$$anonfun$apply$mcV$sp$1.apply(JourneyPlannerSpec.scala:15)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.WordSpecLike$$anon$1.apply(WordSpecLike.scala:953)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Suite$class.withFixture(Suite.scala:1122)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m

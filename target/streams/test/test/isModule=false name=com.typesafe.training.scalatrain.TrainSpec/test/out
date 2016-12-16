@@ -1,0 +1,27 @@
+[0m[[0minfo[0m] [0m[32mTrainSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mTrain ice724[0m[0m
+[0m[[0minfo[0m] [0m[31mException encountered when attempting to run a suite with class name: com.typesafe.training.scalatrain.TrainSpec *** ABORTED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  java.lang.ExceptionInInitializerError:[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.typesafe.training.scalatrain.TrainSpec$$anonfun$1$$anonfun$apply$mcV$sp$1.apply$mcV$sp(TrainSpec.scala:15)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.typesafe.training.scalatrain.TrainSpec$$anonfun$1$$anonfun$apply$mcV$sp$1.apply(TrainSpec.scala:15)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.typesafe.training.scalatrain.TrainSpec$$anonfun$1$$anonfun$apply$mcV$sp$1.apply(TrainSpec.scala:15)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.WordSpecLike$$anon$1.apply(WordSpecLike.scala:953)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Suite$class.withFixture(Suite.scala:1122)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m  Cause: scala.MatchError: Vector(08:50, 10:00, 12:10, 13:39) (of class scala.collection.immutable.Vector)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.typesafe.training.scalatrain.Time$.isIncreasing(Time.scala:27)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.typesafe.training.scalatrain.Train.<init>(Train.scala:16)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.typesafe.training.scalatrain.TestData$.<init>(TestData.scala:35)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.typesafe.training.scalatrain.TestData$.<clinit>(TestData.scala)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.typesafe.training.scalatrain.TrainSpec$$anonfun$1$$anonfun$apply$mcV$sp$1.apply$mcV$sp(TrainSpec.scala:15)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.typesafe.training.scalatrain.TrainSpec$$anonfun$1$$anonfun$apply$mcV$sp$1.apply(TrainSpec.scala:15)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.typesafe.training.scalatrain.TrainSpec$$anonfun$1$$anonfun$apply$mcV$sp$1.apply(TrainSpec.scala:15)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m

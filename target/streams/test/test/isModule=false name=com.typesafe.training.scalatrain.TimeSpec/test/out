@@ -1,0 +1,59 @@
+[0m[[0minfo[0m] [0m[32mTimeSpec:[0m[0m
+[0m[[0minfo[0m] [0m[32mCalling fromJson[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return None for an invalid json[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return Some wrapping a properly initialized Time for a valid JsonOject[0m[0m
+[0m[[0minfo[0m] [0m[32mCalling fromJson after toJson[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return Some wrapping the original Time[0m[0m
+[0m[[0minfo[0m] [0m[32mCalling isIncreasing[0m[0m
+[0m[[0minfo[0m] [0m[31m- should be true for an empty or one-element sequence *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.MatchError: Vector(00:00) (of class scala.collection.immutable.Vector)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.typesafe.training.scalatrain.Time$.isIncreasing(Time.scala:27)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.typesafe.training.scalatrain.TimeSpec$$anonfun$3$$anonfun$apply$mcV$sp$4.apply$mcV$sp(TimeSpec.scala:33)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.typesafe.training.scalatrain.TimeSpec$$anonfun$3$$anonfun$apply$mcV$sp$4.apply(TimeSpec.scala:31)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.typesafe.training.scalatrain.TimeSpec$$anonfun$3$$anonfun$apply$mcV$sp$4.apply(TimeSpec.scala:31)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.WordSpecLike$$anon$1.apply(WordSpecLike.scala:953)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- should be false for a not strictly increasing sequence *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.MatchError: Vector(00:00, 00:00) (of class scala.collection.immutable.Vector)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.typesafe.training.scalatrain.Time$.isIncreasing(Time.scala:27)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.typesafe.training.scalatrain.TimeSpec$$anonfun$3$$anonfun$apply$mcV$sp$5.apply$mcV$sp(TimeSpec.scala:36)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.typesafe.training.scalatrain.TimeSpec$$anonfun$3$$anonfun$apply$mcV$sp$5.apply(TimeSpec.scala:35)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.typesafe.training.scalatrain.TimeSpec$$anonfun$3$$anonfun$apply$mcV$sp$5.apply(TimeSpec.scala:35)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.WordSpecLike$$anon$1.apply(WordSpecLike.scala:953)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[31m- should be true for a strictly increasing sequence *** FAILED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m  scala.MatchError: Vector(01:00, 02:00) (of class scala.collection.immutable.Vector)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.typesafe.training.scalatrain.Time$.isIncreasing(Time.scala:27)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.typesafe.training.scalatrain.TimeSpec$$anonfun$3$$anonfun$apply$mcV$sp$6.apply$mcV$sp(TimeSpec.scala:40)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.typesafe.training.scalatrain.TimeSpec$$anonfun$3$$anonfun$apply$mcV$sp$6.apply(TimeSpec.scala:39)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at com.typesafe.training.scalatrain.TimeSpec$$anonfun$3$$anonfun$apply$mcV$sp$6.apply(TimeSpec.scala:39)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer$$anonfun$apply$1.apply$mcV$sp(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$class.outcomeOf(OutcomeOf.scala:85)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.OutcomeOf$.outcomeOf(OutcomeOf.scala:104)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:22)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.Transformer.apply(Transformer.scala:20)[0m[0m
+[0m[[0minfo[0m] [0m[31m  at org.scalatest.WordSpecLike$$anon$1.apply(WordSpecLike.scala:953)[0m[0m
+[0m[[0minfo[0m] [0m[31m  ...[0m[0m
+[0m[[0minfo[0m] [0m[32mCreating a Time[0m[0m
+[0m[[0minfo[0m] [0m[32m- should throw an IllegalArgumentException for hours not within 0 and 23[0m[0m
+[0m[[0minfo[0m] [0m[32m- should throw an IllegalArgumentException for minutes not within 0 and 59[0m[0m
+[0m[[0minfo[0m] [0m[32mThe default arguments for hours and minutes[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be equal to 0[0m[0m
+[0m[[0minfo[0m] [0m[32masMinutes[0m[0m
+[0m[[0minfo[0m] [0m[32m- should be initialized correctly[0m[0m
+[0m[[0minfo[0m] [0m[32mCalling minus or -[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return the correct difference in minutes[0m[0m
+[0m[[0minfo[0m] [0m[32mCalling toString[0m[0m
+[0m[[0minfo[0m] [0m[32m- should return a properly formatted string representation[0m[0m
+[0m[[0minfo[0m] [0m[32mCalling Ordered operators[0m[0m
+[0m[[0minfo[0m] [0m[32m- should work as expected[0m[0m

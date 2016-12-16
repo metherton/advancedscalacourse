@@ -1,0 +1,15 @@
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.typesafe.training.scalatrain.TimeSpec, org.scalatest.tools.Framework$$anon$1@1a373aea, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.typesafe.training.scalatrain.JourneyPlannerSpec, org.scalatest.tools.Framework$$anon$1@1a373aea, false, [SuiteSelector])[0m
+[0m[[0mdebug[0m] [0mRunning TaskDef(com.typesafe.training.scalatrain.TrainSpec, org.scalatest.tools.Framework$$anon$1@1a373aea, false, [SuiteSelector])[0m
+[0m[[0minfo[0m] [0m[36mRun completed in 391 milliseconds.[0m[0m
+[0m[[0minfo[0m] [0m[36mTotal number of tests run: 13[0m[0m
+[0m[[0minfo[0m] [0m[36mSuites: completed 1, aborted 2[0m[0m
+[0m[[0minfo[0m] [0m[36mTests: succeeded 10, failed 3, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0minfo[0m] [0m[31m*** 2 SUITES ABORTED ***[0m[0m
+[0m[[0minfo[0m] [0m[31m*** 3 TESTS FAILED ***[0m[0m
+[0m[[31merror[0m] [0mFailed tests:[0m
+[0m[[31merror[0m] [0m	com.typesafe.training.scalatrain.TimeSpec[0m
+[0m[[31merror[0m] [0mError during tests:[0m
+[0m[[31merror[0m] [0m	com.typesafe.training.scalatrain.TrainSpec[0m
+[0m[[31merror[0m] [0m	com.typesafe.training.scalatrain.JourneyPlannerSpec[0m
+[0m[[31merror[0m] [0m(test:[31mtest[0m) sbt.TestsFailedException: Tests unsuccessful[0m

@@ -1,0 +1,443 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes
+compile options:
+6 items
+0 -> -unchecked
+1 -> -deprecation
+2 -> -language:_
+3 -> -target:jvm-1.6
+4 -> -encoding
+5 -> UTF-8
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+36 items
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/CustomColl$$anonfun$map$1.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/CustomColl$.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/CustomColl.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/JourneyPlanner$$anonfun$1.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/JourneyPlanner$$anonfun$isShortTrip$1$$anonfun$2.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/JourneyPlanner$$anonfun$isShortTrip$1.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/JourneyPlanner$$anonfun$stopsAt$1$$anonfun$apply$1.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/JourneyPlanner$$anonfun$stopsAt$1.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/JourneyPlanner$$anonfun$trainsAt$1.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/JourneyPlanner.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Time$$anonfun$1.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Time$$anonfun$2$$anonfun$apply$1.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Time$$anonfun$2$$anonfun$apply$2.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Time$$anonfun$2$$anonfun$apply$3.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Time$$anonfun$2.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Time$$anonfun$3.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Time$$anonfun$4.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Time$.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Time.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/BavarianRegional$.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/BavarianRegional.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/InterCityExpress$.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/InterCityExpress.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/RegionalExpress$.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/RegionalExpress.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Station$.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Station.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Train$$anonfun$1.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Train$$anonfun$2.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Train$$anonfun$3.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Train$$anonfun$4.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Train$$anonfun$timeAt$1.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Train$$anonfun$timeAt$2.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Train$.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Train.class
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/TrainInfo.class
+binary dependencies:
+9 items
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> /Users/martin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> /Users/martin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> /Users/martin/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.3.8.jar
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> /Users/martin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> /Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> /Users/martin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+3 items
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> /Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+36 items
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> com.typesafe.training.scalatrain.CustomColl
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> com.typesafe.training.scalatrain.CustomColl$
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> com.typesafe.training.scalatrain.CustomColl$$anonfun$map$1
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> com.typesafe.training.scalatrain.JourneyPlanner
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> com.typesafe.training.scalatrain.JourneyPlanner$$anonfun$1
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> com.typesafe.training.scalatrain.JourneyPlanner$$anonfun$isShortTrip$1
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> com.typesafe.training.scalatrain.JourneyPlanner$$anonfun$isShortTrip$1$$anonfun$2
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> com.typesafe.training.scalatrain.JourneyPlanner$$anonfun$stopsAt$1
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> com.typesafe.training.scalatrain.JourneyPlanner$$anonfun$stopsAt$1$$anonfun$apply$1
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> com.typesafe.training.scalatrain.JourneyPlanner$$anonfun$trainsAt$1
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> com.typesafe.training.scalatrain.Time
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> com.typesafe.training.scalatrain.Time$
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> com.typesafe.training.scalatrain.Time$$anonfun$1
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> com.typesafe.training.scalatrain.Time$$anonfun$2
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> com.typesafe.training.scalatrain.Time$$anonfun$2$$anonfun$apply$1
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> com.typesafe.training.scalatrain.Time$$anonfun$2$$anonfun$apply$2
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> com.typesafe.training.scalatrain.Time$$anonfun$2$$anonfun$apply$3
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> com.typesafe.training.scalatrain.Time$$anonfun$3
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> com.typesafe.training.scalatrain.Time$$anonfun$4
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> com.typesafe.training.scalatrain.BavarianRegional
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> com.typesafe.training.scalatrain.BavarianRegional$
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> com.typesafe.training.scalatrain.InterCityExpress
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> com.typesafe.training.scalatrain.InterCityExpress$
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> com.typesafe.training.scalatrain.RegionalExpress
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> com.typesafe.training.scalatrain.RegionalExpress$
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> com.typesafe.training.scalatrain.Station
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> com.typesafe.training.scalatrain.Station$
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> com.typesafe.training.scalatrain.Train
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> com.typesafe.training.scalatrain.Train$
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> com.typesafe.training.scalatrain.Train$$anonfun$1
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> com.typesafe.training.scalatrain.Train$$anonfun$2
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> com.typesafe.training.scalatrain.Train$$anonfun$3
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> com.typesafe.training.scalatrain.Train$$anonfun$4
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> com.typesafe.training.scalatrain.Train$$anonfun$timeAt$1
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> com.typesafe.training.scalatrain.Train$$anonfun$timeAt$2
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> com.typesafe.training.scalatrain.TrainInfo
+used names:
+223 items
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> :+
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> <init>
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> A
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> AnyRef
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> B
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> CustomColl
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> Function1
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> List
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> _root_
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> a
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> apply
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> as
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> bs
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> canBuildFrom
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> com
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> empty
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> f
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> foldLeft
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> immutable
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> package
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> scala
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> scalatrain
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> training
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> typesafe
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> !=
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> +:
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> <init>
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> ==
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> AnyRef
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> Boolean
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> JourneyPlanner
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> Option
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> Predef
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> Set
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> Station
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> Time
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> Train
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> Tuple2
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> _1
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> _2
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> canBuildFrom
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> com
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> contains
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> dropWhile
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> exists
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> filter
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> flatMap
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> from
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> get
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> immutable
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> isEmpty
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> map
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> option2Iterable
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> package
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> scala
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> scalatrain
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> station
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> stations
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> time
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> timeAt
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> to
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> train
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> training
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> trains
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> typesafe
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> unapply
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> unary_!
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> %
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> &&
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> *
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> +
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> +:
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> -
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> ->
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> /
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> <
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> <=
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> <init>
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> ==
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> >=
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> A1
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> AnyRef
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> B1
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> Boolean
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> Function1
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> Int
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> IntReads
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> IntWrites
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> JsValue
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> Json
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> None
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> Option
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> Ordered
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> Predef
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> Product
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> Reads
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> ScalaRunTime
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> Seq
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> Serializable
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> Statics
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> String
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> StringContext
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> StringOps
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> Time
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> Try
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> Writes
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> \
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> _1
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> _2
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> annotation
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> api
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> apply
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> arg$macro$1
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> arg$macro$2
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> as
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> asInstanceOf
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> asMinutes
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> collection
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> com
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> eq
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> f
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> finalizeHash
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> flatMap
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> format
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> get
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> hours
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> immutable
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> isEmpty
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> isIncreasing
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> isInstanceOf
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> json
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> libs
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> map
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> minus
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> minutes
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> mix
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> obj
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> package
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> play
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> recover
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> require
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> runtime
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> scala
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> scalatrain
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> tailrec
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> that
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> times
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> toJsFieldJsValueWrapper
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> toOption
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> toString
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> training
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> tryTime
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> typedProductIterator
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> typesafe
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> unapply
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> unary_!
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> unchecked
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> util
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> x1
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> x2
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> xs
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> ||
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> &&
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> <init>
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> ==
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> >=
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> AbstractFunction1
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> AbstractFunction2
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> AnyRef
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> BavarianRegional
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> Boolean
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> Int
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> InterCityExpress
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> None
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> Option
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> Predef
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> Product
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> RegionalExpress
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> ScalaRunTime
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> Seq
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> Serializable
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> Statics
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> Station
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> String
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> Time
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> Train
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> TrainInfo
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> Tuple2
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> _1
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> _2
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> _hashCode
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> _toString
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> asInstanceOf
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> canBuildFrom
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> collection
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> com
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> eq
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> finalizeHash
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> find
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> found
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> hasWifi
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> immutable
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> info
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> isIncreasing
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> isInstanceOf
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> map
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> mix
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> name
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> number
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> require
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> runtime
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> scala
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> scalatrain
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> schedule
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> size
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> station
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> stations
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> stop
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> toString
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> training
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> typedProductIterator
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> typesafe
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> ||
+product stamps:
+36 items
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/BavarianRegional$.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/BavarianRegional.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/CustomColl$$anonfun$map$1.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/CustomColl$.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/CustomColl.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/InterCityExpress$.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/InterCityExpress.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/JourneyPlanner$$anonfun$1.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/JourneyPlanner$$anonfun$isShortTrip$1$$anonfun$2.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/JourneyPlanner$$anonfun$isShortTrip$1.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/JourneyPlanner$$anonfun$stopsAt$1$$anonfun$apply$1.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/JourneyPlanner$$anonfun$stopsAt$1.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/JourneyPlanner$$anonfun$trainsAt$1.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/JourneyPlanner.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/RegionalExpress$.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/RegionalExpress.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Station$.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Station.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Time$$anonfun$1.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Time$$anonfun$2$$anonfun$apply$1.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Time$$anonfun$2$$anonfun$apply$2.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Time$$anonfun$2$$anonfun$apply$3.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Time$$anonfun$2.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Time$$anonfun$3.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Time$$anonfun$4.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Time$.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Time.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Train$$anonfun$1.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Train$$anonfun$2.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Train$$anonfun$3.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Train$$anonfun$4.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Train$$anonfun$timeAt$1.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Train$$anonfun$timeAt$2.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Train$.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/Train.class -> lastModified(1481908879000)
+/Users/martin/mycourses/scala/advanced/scalatrain/target/scala-2.11/classes/com/typesafe/training/scalatrain/TrainInfo.class -> lastModified(1481908879000)
+source stamps:
+4 items
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> hash(0eaf935db75cf1177fd72156c6686e5937270c54)
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> hash(6f30fe008e671638a3cce3de91d04f012ccea702)
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> hash(d505448bf8dd4dd3801251d4aa89d9abb9513dda)
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> hash(468c279e121e4316f2e29cb62a4aba06ebfa8b13)
+binary stamps:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar -> lastModified(1444172124000)
+/Users/martin/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.3.8.jar -> lastModified(1429631312000)
+/Users/martin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> lastModified(1435004218000)
+class names:
+3 items
+/Library/Java/JavaVirtualMachines/jdk1.8.0_65.jdk/Contents/Home/jre/lib/rt.jar -> java.lang.Object
+/Users/martin/.ivy2/cache/com.typesafe.play/play-json_2.11/jars/play-json_2.11-2.3.8.jar -> play.api.libs.json.JsValue
+/Users/martin/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.11.7.jar -> scala.runtime.AbstractFunction2
+internal apis:
+4 items
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDe6rRSAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cCS49tp0AAZub3RpZnlzcQB+AAxRorArdAAEd2FpdHNxAH4ADD81VZB0AA0kYXNJbnN0YW5jZU9mc3EAfgAM0gpm4nQAA21hcHNxAH4ADEuHudd0AAZlcXVhbHNzcQB+AAybYUBsdAAMYXNJbnN0YW5jZU9mc3EAfgAMOnTwG3QADHN5bmNocm9uaXplZHNxAH4ADDhdbt90AA0kaXNJbnN0YW5jZU9mc3EAfgAMDddZQnQACW5vdGlmeUFsbHNxAH4ADJ9r1Xh0AAxpc0luc3RhbmNlT2ZzcQB+AAy+qLwNdAACPT1zcQB+AAy6vmmidAAFY2xvbmVzcQB+AAzTPeE2dAAKQ3VzdG9tQ29sbHNxAH4ADFtZldh0AAh0b1N0cmluZ3NxAH4ADJRodBx0AAIhPXNxAH4ADHPmful0AAhnZXRDbGFzc3NxAH4ADPHCfGZ0AAJuZXNxAH4ADMjtZEF0AAJlcXNxAH4ADLCNy9V0AAIjI3NxAH4ADMYaDjl0AAhmaW5hbGl6ZXNxAH4ADIvul0x0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEF4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0ACtjb20udHlwZXNhZmUudHJhaW5pbmcuc2NhbGF0cmFpbi5DdXN0b21Db2xsdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AWnhwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWQBwc3EAfgBec3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEFMAAlpbmhlcml0ZWRxAH4AQUwAB3BhcmVudHNxAH4AQXhxAH4AYnNxAH4AWQBwc3EAfgBedXEAfgA8AAAAAHNxAH4AWQBwc3EAfgBedXEAfgA8AAAAAHNxAH4AWQBwc3EAfgBedXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBhdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBhc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB+dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgB/c3EAfgBydAADQW55c3EAfgB2c3EAfgB5dXEAfgB8AAAAAnNxAH4AfnQABXNjYWxhcQB+AIV1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAABHNyABF4c2J0aS5hcGkuUGFja2FnZX5Zj/auzjlYAgABTAAEbmFtZXEAfgANeHB0ACBjb20udHlwZXNhZmUudHJhaW5pbmcuc2NhbGF0cmFpbnNxAH4Aj3QADGNvbS50eXBlc2FmZXNxAH4Aj3QAFWNvbS50eXBlc2FmZS50cmFpbmluZ3NxAH4Aj3QAA2NvbXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWQim8dh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdABLL1VzZXJzL21hcnRpbi9teWNvdXJzZXMvc2NhbGEvYWR2YW5jZWQvc2NhbGF0cmFpbi90YXJnZXQvc2NhbGEtMi4xMS9jbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUDq+TXbdc8Rd/1yFWxmhuWTcnDFQ=
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDNc4UsAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cJmYhl50AAZub3RpZnlzcQB+AAwvdeZddAAEd2FpdHNxAH4ADC7Y6FZ0AA0kYXNJbnN0YW5jZU9mc3EAfgAMx/xVQnQABmVxdWFsc3NxAH4ADMHKNDt0AAxhc0luc3RhbmNlT2ZzcQB+AAwRLtJ4dAAMc3luY2hyb25pemVkc3EAfgAMuYEClXQADkpvdXJuZXlQbGFubmVyc3EAfgAMUnHspXQADSRpc0luc3RhbmNlT2ZzcQB+AAxIdvAZdAALaXNTaG9ydFRyaXBzcQB+AAwv+C16dAAJbm90aWZ5QWxsc3EAfgAMig2ab3QADGlzSW5zdGFuY2VPZnNxAH4ADEktMwh0AAY8aW5pdD5zcQB+AAxNek2tdAAHc3RvcHNBdHNxAH4ADKWSYlR0AAI9PXNxAH4ADAWApcR0AAVjbG9uZXNxAH4ADJ65J4l0AAhzdGF0aW9uc3NxAH4ADND+TUV0AAh0b1N0cmluZ3NxAH4ADELu1QR0AAIhPXNxAH4ADJjpxDx0AAhnZXRDbGFzc3NxAH4ADAggnG50AAJuZXNxAH4ADDC0QOt0AAh0cmFpbnNBdHNxAH4ADHBddCF0AAJlcXNxAH4ADLbPNxF0AAIjI3NxAH4ADGqJHRx0AAhmaW5hbGl6ZXNxAH4ADGHIO4x0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEl4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cAB0AC9jb20udHlwZXNhZmUudHJhaW5pbmcuc2NhbGF0cmFpbi5Kb3VybmV5UGxhbm5lcnVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQACENsYXNzRGVmdXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAXNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBwc3EAfgBhAXNyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBJTAAJaW5oZXJpdGVkcQB+AElMAAdwYXJlbnRzcQB+AEl4cQB+AGhzcQB+AGEBdXEAfgBEAAAAAHBzcQB+AGEBdXEAfgBEAAAAAHBzcQB+AGEBdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBndAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBnc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCAdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCBc3EAfgB0dAADQW55c3EAfgB4c3EAfgB7dXEAfgB+AAAAAnNxAH4AgHQABXNjYWxhcQB+AIdwcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAIGNvbS50eXBlc2FmZS50cmFpbmluZy5zY2FsYXRyYWluc3EAfgCRdAAMY29tLnR5cGVzYWZlc3EAfgCRdAAVY29tLnR5cGVzYWZlLnRyYWluaW5nc3EAfgCRdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZCKbx2HVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEsvVXNlcnMvbWFydGluL215Y291cnNlcy9zY2FsYS9hZHZhbmNlZC9zY2FsYXRyYWluL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABRvMP4AjmcWOKPM496R0E8BLM6nAg==
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHDOTd4bAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAM3NyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cGWW58h0AAZub3RpZnlzcQB+AAzFaWpMdAAHdW5hcHBseXNxAH4ADHU8DeB0AAR3YWl0c3EAfgAM4RsXdXQAAjw9c3EAfgAMVuCI9XQADmNvcHkkZGVmYXVsdCQyc3EAfgAM9ikgw3QADSRhc0luc3RhbmNlT2ZzcQB+AAzu4vN+dAAFbWludXNzcQB+AAxzdK6ndAAQPGluaXQ+JGRlZmF1bHQkMXNxAH4ADAjEVzt0AAlhc01pbnV0ZXNzcQB+AAw3Kxi5dAAMcHJvZHVjdEFyaXR5c3EAfgAMQzw/s3QABmVxdWFsc3NxAH4ADEvLj1Z0AAxhc0luc3RhbmNlT2ZzcQB+AAyQxSnZdAABPHNxAH4ADGa6xfN0AAxzeW5jaHJvbml6ZWRzcQB+AAwBamQkdAANJGlzSW5zdGFuY2VPZnNxAH4ADIdjrb90AAI+PXNxAH4ADEYLqL90AAhjYW5FcXVhbHNxAH4ADP/MBLp0AA1wcm9kdWN0UHJlZml4c3EAfgAM0zAwZXQACW5vdGlmeUFsbHNxAH4ADFuFiYN0AAtyZWFkUmVzb2x2ZXNxAH4ADE6p+Cx0AAljb21wYXJlVG9zcQB+AAzZDQ6edAABLXNxAH4ADDJBvMJ0AAxpc0luc3RhbmNlT2ZzcQB+AAyPPBj3dAAHbWludXRlc3NxAH4ADHrvZ3J0AAVob3Vyc3NxAH4ADNMmPsx0AAY8aW5pdD5zcQB+AAyy8nQLdAAPYXBwbHkkZGVmYXVsdCQyc3EAfgAM04NRzHQABWFwcGx5c3EAfgAM4zbqKXQAAj09c3EAfgAMxkrzy3QABWNsb25lc3EAfgAMAMylwHQABnRvSnNvbnNxAH4ADP/pudB0AARjb3B5c3EAfgAMMXLt7XQAD2FwcGx5JGRlZmF1bHQkMXNxAH4ADNOE1vx0AAh0b1N0cmluZ3NxAH4ADFeztQV0AAhmcm9tSnNvbnNxAH4ADAHb6f50AAIhPXNxAH4ADK/9kKx0AAxpc0luY3JlYXNpbmdzcQB+AAyVF+EAdAAIZ2V0Q2xhc3NzcQB+AAzf7MvDdAAOY29weSRkZWZhdWx0JDFzcQB+AAx8dITvdAALZnJvbU1pbnV0ZXNzcQB+AAxjOU7vdAACbmVzcQB+AAw7LWZSdAAQPGluaXQ+JGRlZmF1bHQkMnNxAH4ADJ0yr1J0AAJlcXNxAH4ADJVQtv10AAdjb21wYXJlc3EAfgAM00dcr3QABFRpbWVzcQB+AAyx6SpxdAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMHK3ri3QAAT5zcQB+AAxHlPrKdAACIyNzcQB+AAxaMO3sdAAIZmluYWxpemVzcQB+AAz7dbLbdAAOcHJvZHVjdEVsZW1lbnRzcQB+AAzeQAc5dAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAACc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgB9eHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAlY29tLnR5cGVzYWZlLnRyYWluaW5nLnNjYWxhdHJhaW4uVGltZXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAAF0ABhzY2FsYS5hbm5vdGF0aW9uLnRhaWxyZWNzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cAFzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwcHNxAH4AlgFzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AfUwACWluaGVyaXRlZHEAfgB9TAAHcGFyZW50c3EAfgB9eHEAfgCdc3EAfgCWAXVxAH4AeAAAAABwc3EAfgCWAXVxAH4AeAAAAABwc3EAfgCWAXVyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAAEc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AnHQADFNlcmlhbGl6YWJsZXNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AnHNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAAnNyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAFc2NhbGFzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AtnNxAH4AqXEAfgCsc3EAfgCtc3EAfgCwdXEAfgCzAAAAA3NxAH4AtXQABGphdmFzcQB+ALV0AAJpb3EAfgC6c3EAfgCpdAAGT2JqZWN0c3EAfgCtc3EAfgCwdXEAfgCzAAAAA3NxAH4AtXEAfgDAc3EAfgC1dAAEbGFuZ3EAfgC6c3EAfgCpdAADQW55cQB+AK9wcHNxAH4AenEAfgCHdXEAfgCIAAAAAHNxAH4AigB0ACVjb20udHlwZXNhZmUudHJhaW5pbmcuc2NhbGF0cmFpbi5UaW1ldXEAfgCNAAAAAH5xAH4Aj3QACENsYXNzRGVmdXEAfgCTAAAAAHNxAH4AlgFxAH4AnnBzcQB+AJYBc3EAfgCgc3EAfgCWAXVxAH4AeAAAAABwc3EAfgCWAXVxAH4AeAAAAABwc3EAfgCWAXVxAH4ApwAAAAhzcQB+AKlxAH4ArHNxAH4ArXNxAH4AsHVxAH4AswAAAAJzcQB+ALVxAH4AuHEAfgC6c3EAfgCpcQB+AKxzcQB+AK1zcQB+ALB1cQB+ALMAAAADc3EAfgC1cQB+AMBzcQB+ALV0AAJpb3EAfgC6c3EAfgCpdAAHUHJvZHVjdHEAfgDfc3EAfgCpdAAGRXF1YWxzcQB+AN9zcgAXeHNidGkuYXBpLlBhcmFtZXRlcml6ZWQWbO5pA8m7fwIAAkwACGJhc2VUeXBlcQB+AKpbAA10eXBlQXJndW1lbnRzdAARW0x4c2J0aS9hcGkvVHlwZTt4cQB+AJxzcQB+AKl0AAdPcmRlcmVkc3EAfgCtc3EAfgCwdXEAfgCzAAAAA3NxAH4AtXEAfgC4c3EAfgC1dAAEbWF0aHEAfgC6dXEAfgCnAAAAAXNxAH4AqXQABFRpbWVzcQB+AK1zcQB+ALB1cQB+ALMAAAAFc3EAfgC1dAADY29tc3EAfgC1dAAIdHlwZXNhZmVzcQB+ALV0AAh0cmFpbmluZ3NxAH4AtXQACnNjYWxhdHJhaW5xAH4AunNxAH4A7nNxAH4AqXQACkNvbXBhcmFibGVzcQB+AK1zcQB+ALB1cQB+ALMAAAADc3EAfgC1cQB+AMBzcQB+ALVxAH4AynEAfgC6dXEAfgCnAAAAAXEAfgD6c3EAfgCpcQB+AMRxAH4BCnNxAH4AqXEAfgDMcQB+AN9wcHVyABRbTHhzYnRpLmFwaS5QYWNrYWdlO1sTGTdwpyehAgAAeHAAAAAEc3IAEXhzYnRpLmFwaS5QYWNrYWdlflmP9q7OOVgCAAFMAARuYW1lcQB+AA14cHQAIGNvbS50eXBlc2FmZS50cmFpbmluZy5zY2FsYXRyYWluc3EAfgEUdAAMY29tLnR5cGVzYWZlc3EAfgEUdAAVY29tLnR5cGVzYWZlLnRyYWluaW5nc3EAfgEUdAADY29tc3IAFXhzYnRpLmFwaS5Db21waWxhdGlvbu364MNq6KBCAgACSgAJc3RhcnRUaW1lWwAHb3V0cHV0c3QAGltMeHNidGkvYXBpL091dHB1dFNldHRpbmc7eHAAAAFZCKbx2HVyABpbTHhzYnRpLmFwaS5PdXRwdXRTZXR0aW5nO39qwvOnh6VCAgAAeHAAAAABc3IAF3hzYnRpLmFwaS5PdXRwdXRTZXR0aW5netmaR3T7HXsCAAJMAA9vdXRwdXREaXJlY3RvcnlxAH4ADUwAD3NvdXJjZURpcmVjdG9yeXEAfgANeHB0AEsvVXNlcnMvbWFydGluL215Y291cnNlcy9zY2FsYS9hZHZhbmNlZC9zY2FsYXRyYWluL3RhcmdldC9zY2FsYS0yLjExL2NsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABTVBUSL+N1N04ASUdSqidmruVE92g==
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBsRXNYAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAKXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cODNJLZ0AAZub3RpZnlzcQB+AAy9tM4ZdAAGbnVtYmVyc3EAfgAMNgaQZ3QABG5hbWVzcQB+AAwqcquSdAAEd2FpdHNxAH4ADPZRehN0AA5jb3B5JGRlZmF1bHQkMnNxAH4ADP9/lEt0AA0kYXNJbnN0YW5jZU9mc3EAfgAMnqrG/nQADHByb2R1Y3RBcml0eXNxAH4ADLkybQF0AAZlcXVhbHNzcQB+AAwHkzcgdAAMYXNJbnN0YW5jZU9mc3EAfgAMl3N1jXQAEEludGVyQ2l0eUV4cHJlc3NzcQB+AAzCpoK7dAAMc3luY2hyb25pemVkc3EAfgAMMCUq+nQADSRpc0luc3RhbmNlT2ZzcQB+AAyLYle5dAAIY2FuRXF1YWxzcQB+AAxLgerDdAAJVHJhaW5JbmZvc3EAfgAMyJObEnQADXByb2R1Y3RQcmVmaXhzcQB+AAyNvYuwdAAEaW5mb3NxAH4ADA4JAjp0AAlub3RpZnlBbGxzcQB+AAzC7qPAdAAMaXNJbnN0YW5jZU9mc3EAfgAMRx4oQXQAB2hhc1dpZmlzcQB+AAzHusJadAAGPGluaXQ+c3EAfgAMn6fQ03QABVRyYWluc3EAfgAM/cjhDnQAAj09c3EAfgAMPVgeoHQABWNsb25lc3EAfgAMoBAYoHQACHNjaGVkdWxlc3EAfgAM2jdZsHQACHN0YXRpb25zc3EAfgAM1QfP63QABGNvcHlzcQB+AAwVr0+ddAAIdG9TdHJpbmdzcQB+AAzJGmySdAACIT1zcQB+AAzJWc3qdAAIZ2V0Q2xhc3NzcQB+AAwTooOadAAOY29weSRkZWZhdWx0JDFzcQB+AAzprBJddAAHU3RhdGlvbnNxAH4ADPy+2UB0AAZ0aW1lQXRzcQB+AAySRGpTdAACbmVzcQB+AAzw/zuOdAAPUmVnaW9uYWxFeHByZXNzc3EAfgAMplQabXQAEEJhdmFyaWFuUmVnaW9uYWxzcQB+AAzAf+CSdAACZXFzcQB+AAxwZBR+dAAPcHJvZHVjdEl0ZXJhdG9yc3EAfgAMqVcvuXQAAiMjc3EAfgAM7LPY43QACGZpbmFsaXplc3EAfgAMj1M1M3QADnByb2R1Y3RFbGVtZW50c3EAfgAMgxy0InQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAABnNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AaXhyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHQAJmNvbS50eXBlc2FmZS50cmFpbmluZy5zY2FsYXRyYWluLlRyYWludXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAIQ2xhc3NEZWZ1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgCCeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgCBAHBzcQB+AIZzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AaUwACWluaGVyaXRlZHEAfgBpTAAHcGFyZW50c3EAfgBpeHEAfgCKc3EAfgCBAHBzcQB+AIZ1cQB+AGQAAAAAc3EAfgCBAHBzcQB+AIZ1cQB+AGQAAAAAc3EAfgCBAHBzcQB+AIZ1cgARW0x4c2J0aS5hcGkuVHlwZTt0/6Vae/npQQIAAHhwAAAABnNyABR4c2J0aS5hcGkuUHJvamVjdGlvbvPSjVTpRaQtAgACTAACaWRxAH4ADUwABnByZWZpeHQAFkx4c2J0aS9hcGkvU2ltcGxlVHlwZTt4cQB+AIl0AAxTZXJpYWxpemFibGVzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AIlzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AKdzcQB+AJpxAH4AnXNxAH4AnnNxAH4AoXVxAH4ApAAAAANzcQB+AKZ0AARqYXZhc3EAfgCmdAACaW9xAH4Aq3NxAH4AmnQAB1Byb2R1Y3RxAH4AoHNxAH4AmnQABkVxdWFsc3EAfgCgc3EAfgCadAAGT2JqZWN0c3EAfgCec3EAfgChdXEAfgCkAAAAA3NxAH4ApnEAfgCxc3EAfgCmdAAEbGFuZ3EAfgCrc3EAfgCadAADQW55cQB+AKBzcQB+AGZxAH4Ac3VxAH4AdAAAAABzcQB+AHYAdAAoY29tLnR5cGVzYWZlLnRyYWluaW5nLnNjYWxhdHJhaW4uU3RhdGlvbnVxAH4AeQAAAABxAH4AfXVxAH4AfwAAAABzcQB+AIEAcHNxAH4AhnEAfgCLc3EAfgCBAHBzcQB+AIZzcQB+AI5zcQB+AIEAcHNxAH4AhnVxAH4AZAAAAABzcQB+AIEAcHNxAH4AhnVxAH4AZAAAAABzcQB+AIEAcHNxAH4AhnVxAH4AmAAAAAZzcQB+AJpxAH4AnXNxAH4AnnNxAH4AoXVxAH4ApAAAAAJzcQB+AKZxAH4AqXEAfgCrc3EAfgCacQB+AJ1zcQB+AJ5zcQB+AKF1cQB+AKQAAAADc3EAfgCmcQB+ALFzcQB+AKZ0AAJpb3EAfgCrc3EAfgCacQB+ALVxAH4A13NxAH4AmnQABkVxdWFsc3EAfgDXc3EAfgCacQB+ALlzcQB+AJ5zcQB+AKF1cQB+AKQAAAADc3EAfgCmcQB+ALFzcQB+AKZxAH4Av3EAfgCrc3EAfgCacQB+AMFxAH4A13NxAH4AZnEAfgBzdXEAfgB0AAAAAHNxAH4Adgl0ACpjb20udHlwZXNhZmUudHJhaW5pbmcuc2NhbGF0cmFpbi5UcmFpbkluZm91cQB+AHkAAAAAcQB+AH11cQB+AH8AAAAAc3EAfgCBAHBzcQB+AIZxAH4Ai3NxAH4AgQBwc3EAfgCGc3EAfgCOc3EAfgCBAHBzcQB+AIZ1cQB+AGQAAAAAc3EAfgCBAHBzcQB+AIZ1cQB+AGQAAAAAc3EAfgCBAHBzcQB+AIZ1cQB+AJgAAAACc3EAfgCacQB+ALlzcQB+AJ5zcQB+AKF1cQB+AKQAAAADc3EAfgCmcQB+ALFzcQB+AKZxAH4Av3EAfgCrc3EAfgCacQB+AMFzcQB+AJ5zcQB+AKF1cQB+AKQAAAACc3EAfgCmcQB+AKlxAH4Aq3NxAH4AZnEAfgBzdXEAfgB0AAAAAHNxAH4AdgB0ADFjb20udHlwZXNhZmUudHJhaW5pbmcuc2NhbGF0cmFpbi5JbnRlckNpdHlFeHByZXNzdXEAfgB5AAAAAHEAfgB9dXEAfgB/AAAAAHNxAH4AgQBwc3EAfgCGcQB+AItzcQB+AIEAcHNxAH4AhnNxAH4AjnNxAH4AgQBwc3EAfgCGdXEAfgBkAAAAAHNxAH4AgQBwc3EAfgCGdXEAfgBkAAAAAHNxAH4AgQBwc3EAfgCGdXEAfgCYAAAAB3NxAH4AmnEAfgCdc3EAfgCec3EAfgChdXEAfgCkAAAAAnNxAH4ApnEAfgCpcQB+AKtzcQB+AJpxAH4AnXNxAH4AnnNxAH4AoXVxAH4ApAAAAANzcQB+AKZxAH4AsXNxAH4ApnQAAmlvcQB+AKtzcQB+AJpxAH4AtXEAfgEgc3EAfgCadAAGRXF1YWxzcQB+ASBzcQB+AJp0AAlUcmFpbkluZm9zcQB+AJ5zcQB+AKF1cQB+AKQAAAAFc3EAfgCmdAADY29tc3EAfgCmdAAIdHlwZXNhZmVzcQB+AKZ0AAh0cmFpbmluZ3NxAH4ApnQACnNjYWxhdHJhaW5xAH4Aq3NxAH4AmnEAfgC5c3EAfgCec3EAfgChdXEAfgCkAAAAA3NxAH4ApnEAfgCxc3EAfgCmcQB+AL9xAH4Aq3NxAH4AmnEAfgDBcQB+ASBzcQB+AGZxAH4Ac3VxAH4AdAAAAABzcQB+AHYAdAAwY29tLnR5cGVzYWZlLnRyYWluaW5nLnNjYWxhdHJhaW4uUmVnaW9uYWxFeHByZXNzdXEAfgB5AAAAAHEAfgB9dXEAfgB/AAAAAHNxAH4AgQBwc3EAfgCGcQB+AItzcQB+AIEAcHNxAH4AhnNxAH4AjnNxAH4AgQBwc3EAfgCGdXEAfgBkAAAAAHNxAH4AgQBwc3EAfgCGdXEAfgBkAAAAAHNxAH4AgQBwc3EAfgCGdXEAfgCYAAAAB3NxAH4AmnEAfgCdc3EAfgCec3EAfgChdXEAfgCkAAAAAnNxAH4ApnEAfgCpcQB+AKtzcQB+AJpxAH4AnXNxAH4AnnNxAH4AoXVxAH4ApAAAAANzcQB+AKZxAH4AsXNxAH4ApnQAAmlvcQB+AKtzcQB+AJpxAH4AtXEAfgFXc3EAfgCadAAGRXF1YWxzcQB+AVdzcQB+AJp0AAlUcmFpbkluZm9zcQB+AJ5zcQB+AKF1cQB+AKQAAAAFc3EAfgCmdAADY29tc3EAfgCmdAAIdHlwZXNhZmVzcQB+AKZ0AAh0cmFpbmluZ3NxAH4ApnQACnNjYWxhdHJhaW5xAH4Aq3NxAH4AmnEAfgC5c3EAfgCec3EAfgChdXEAfgCkAAAAA3NxAH4ApnEAfgCxc3EAfgCmcQB+AL9xAH4Aq3NxAH4AmnEAfgDBcQB+AVdzcQB+AGZxAH4Ac3VxAH4AdAAAAABzcQB+AHYAdAAxY29tLnR5cGVzYWZlLnRyYWluaW5nLnNjYWxhdHJhaW4uQmF2YXJpYW5SZWdpb25hbHVxAH4AeQAAAABxAH4AfXVxAH4AfwAAAABzcQB+AIEAcHNxAH4AhnEAfgCLc3EAfgCBAHBzcQB+AIZzcQB+AI5zcQB+AIEAcHNxAH4AhnVxAH4AZAAAAABzcQB+AIEAcHNxAH4AhnVxAH4AZAAAAABzcQB+AIEAcHNxAH4AhnVxAH4AmAAAAAdzcQB+AJpxAH4AnXNxAH4AnnNxAH4AoXVxAH4ApAAAAAJzcQB+AKZxAH4AqXEAfgCrc3EAfgCacQB+AJ1zcQB+AJ5zcQB+AKF1cQB+AKQAAAADc3EAfgCmcQB+ALFzcQB+AKZ0AAJpb3EAfgCrc3EAfgCacQB+ALVxAH4BjnNxAH4AmnQABkVxdWFsc3EAfgGOc3EAfgCadAAJVHJhaW5JbmZvc3EAfgCec3EAfgChdXEAfgCkAAAABXNxAH4ApnQAA2NvbXNxAH4ApnQACHR5cGVzYWZlc3EAfgCmdAAIdHJhaW5pbmdzcQB+AKZ0AApzY2FsYXRyYWlucQB+AKtzcQB+AJpxAH4AuXNxAH4AnnNxAH4AoXVxAH4ApAAAAANzcQB+AKZxAH4AsXNxAH4ApnEAfgC/cQB+AKtzcQB+AJpxAH4AwXEAfgGOdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAARzcgAReHNidGkuYXBpLlBhY2thZ2V+WY/2rs45WAIAAUwABG5hbWVxAH4ADXhwdAAgY29tLnR5cGVzYWZlLnRyYWluaW5nLnNjYWxhdHJhaW5zcQB+AbJ0AAxjb20udHlwZXNhZmVzcQB+AbJ0ABVjb20udHlwZXNhZmUudHJhaW5pbmdzcQB+AbJ0AANjb21zcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVkIpvHYdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQASy9Vc2Vycy9tYXJ0aW4vbXljb3Vyc2VzL3NjYWxhL2FkdmFuY2VkL3NjYWxhdHJhaW4vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFEaMJ54SHkMW8uKctipKugbr+osT
+external apis:
+0 items
+source infos:
+4 items
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/CustomColl.scala -> 
+AAAAAAAAAAA=
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/JourneyPlanner.scala -> 
+AAAAAAAAAAA=
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Time.scala -> 
+AAAAAAAAAAA=
+/Users/martin/mycourses/scala/advanced/scalatrain/src/main/scala/com/typesafe/training/scalatrain/Train.scala -> 
+AAAAAAAAAAA=
+compilations:
+8 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWP80a751cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9Vc2Vycy9tYXJ0aW4vbXljb3Vyc2VzL3NjYWxhL2FkdmFuY2VkL3NjYWxhdHJhaW4vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+1 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWP9tjLp1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9Vc2Vycy9tYXJ0aW4vbXljb3Vyc2VzL3NjYWxhL2FkdmFuY2VkL3NjYWxhdHJhaW4vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+2 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWP9vj1p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9Vc2Vycy9tYXJ0aW4vbXljb3Vyc2VzL3NjYWxhL2FkdmFuY2VkL3NjYWxhdHJhaW4vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+3 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWP91XBB1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9Vc2Vycy9tYXJ0aW4vbXljb3Vyc2VzL3NjYWxhL2FkdmFuY2VkL3NjYWxhdHJhaW4vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+4 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWP93R8B1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9Vc2Vycy9tYXJ0aW4vbXljb3Vyc2VzL3NjYWxhL2FkdmFuY2VkL3NjYWxhdHJhaW4vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+5 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWP94nTJ1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9Vc2Vycy9tYXJ0aW4vbXljb3Vyc2VzL3NjYWxhL2FkdmFuY2VkL3NjYWxhdHJhaW4vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+6 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWP96m/p1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9Vc2Vycy9tYXJ0aW4vbXljb3Vyc2VzL3NjYWxhL2FkdmFuY2VkL3NjYWxhdHJhaW4vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
+7 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABWQim8dh1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQASy9Vc2Vycy9tYXJ0aW4vbXljb3Vyc2VzL3NjYWxhL2FkdmFuY2VkL3NjYWxhdHJhaW4vdGFyZ2V0L3NjYWxhLTIuMTEvY2xhc3Nlc3QAAS8=
