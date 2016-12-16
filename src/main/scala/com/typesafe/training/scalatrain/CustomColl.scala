@@ -5,8 +5,11 @@ package com.typesafe.training.scalatrain
   */
 object CustomColl {
 
-  def map[A, B](as: List[A])(f: A => B): List[B] =
-    as.foldLeft(List.empty[B])((bs, a) => bs :+ f(a))
+//  def map[A, B](as: List[A])(f: A => B): List[B] =
+//    as.foldLeft(List.empty[B])((bs, a) => bs :+ f(a))
 
-
+  def map[A, B](as: List[A])(f: A => B): List[B] = as match {
+    case Nil => Nil
+    case x :: xs => f(x) :: map(xs)(f)
+  }
 }
